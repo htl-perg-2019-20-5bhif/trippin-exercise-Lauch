@@ -1,0 +1,11 @@
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\obj\Debug\netcoreapp3.0\trippin.csprojAssemblyReference.cache
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\obj\Debug\netcoreapp3.0\trippin.AssemblyInfoInputs.cache
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\obj\Debug\netcoreapp3.0\trippin.AssemblyInfo.cs
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\bin\Debug\netcoreapp3.0\trippin.exe
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\bin\Debug\netcoreapp3.0\trippin.deps.json
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\bin\Debug\netcoreapp3.0\trippin.runtimeconfig.json
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\bin\Debug\netcoreapp3.0\trippin.runtimeconfig.dev.json
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\bin\Debug\netcoreapp3.0\trippin.dll
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\bin\Debug\netcoreapp3.0\trippin.pdb
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\obj\Debug\netcoreapp3.0\trippin.dll
+D:\Schule\5.Klasse\C\trippin-exercise-Lauch\trippin\trippin\obj\Debug\netcoreapp3.0\trippin.pdb
